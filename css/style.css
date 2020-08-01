@@ -1,0 +1,15 @@
+body {
+    background: #eee;
+}
+
+.card-img-top {
+    border-radius: 0;
+}
+
+.img-fluid:hover {
+    transform: scale(1.1);
+}
+
+.flex-row {
+    position: relative;
+}
